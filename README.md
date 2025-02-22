@@ -12,11 +12,11 @@ The primary objective of this project is to analyze Airbnb sales data to gain in
 5. Which ZIP codes have the highest and lowest average prices?
 
 #### Key Performance Indicators (KPIs):
-Average Price per Bedroom: Price trend segmented by the number of bedrooms.
-Price by Zip Code: Regional analysis of listing prices.
-Total Listings by Bedroom Count: Volume of available properties based on size.
-Revenue for the Year: Weekly trend in cumulative revenue generation.
-Price Heatmap by Zip Code: Visual representation of ZIP code-wise pricing patterns.
+1. Average Price per Bedroom: Price trend segmented by the number of bedrooms.
+2. Price by Zip Code: Regional analysis of listing prices.
+3. Total Listings by Bedroom Count: Volume of available properties based on size.
+4. Revenue for the Year: Weekly trend in cumulative revenue generation.
+5. Price Heatmap by Zip Code: Visual representation of ZIP code-wise pricing patterns.
 
 ## 3. Process
 Data Collection: Gathered Airbnb sales dataset, including property details, pricing, location (ZIP code), and booking history.
