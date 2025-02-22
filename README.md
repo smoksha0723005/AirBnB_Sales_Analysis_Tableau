@@ -5,11 +5,11 @@ The primary objective of this project is to analyze Airbnb sales data to gain in
 
 ## 2. Key Questions & KPIs
 #### Key Questions:
-What is the average price per bedroom across different listings?
-How do Airbnb prices vary by ZIP code?
-What is the distribution of listings based on the number of bedrooms?
-How has Airbnb revenue trended throughout the year?
-Which ZIP codes have the highest and lowest average prices?
+1. What is the average price per bedroom across different listings?
+2. How do Airbnb prices vary by ZIP code?
+3. What is the distribution of listings based on the number of bedrooms?
+4. How has Airbnb revenue trended throughout the year?
+5. Which ZIP codes have the highest and lowest average prices?
 
 #### Key Performance Indicators (KPIs):
 Average Price per Bedroom: Price trend segmented by the number of bedrooms.
