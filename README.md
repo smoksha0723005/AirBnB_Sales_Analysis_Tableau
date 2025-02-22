@@ -19,17 +19,17 @@ The primary objective of this project is to analyze Airbnb sales data to gain in
 5. Price Heatmap by Zip Code: Visual representation of ZIP code-wise pricing patterns.
 
 ## 3. Process
-Data Collection: Gathered Airbnb sales dataset, including property details, pricing, location (ZIP code), and booking history.
-Data Cleaning: Cleaned and preprocessed the dataset to remove nulls, duplicates, and anomalies.
-Data Transformation: Aggregated data for price per bedroom, ZIP code segmentation, and weekly revenue calculation.
-Dashboard Creation: Built an interactive Tableau dashboard, incorporating visualizations such as bar charts, maps, and trend lines.
+1. Data Collection: Gathered Airbnb sales dataset, including property details, pricing, location (ZIP code), and booking history.
+2. Data Cleaning: Cleaned and preprocessed the dataset to remove nulls, duplicates, and anomalies.
+3. Data Transformation: Aggregated data for price per bedroom, ZIP code segmentation, and weekly revenue calculation.
+4. Dashboard Creation: Built an interactive Tableau dashboard, incorporating visualizations such as bar charts, maps, and trend lines.
 
 ## 4. Project Insights
-Price by Bedroom: Average price increases with the number of bedrooms, ranging from $96 for 1-bedroom to $584 for 6-bedroom properties.
-Listings Count: The majority of listings are 1- and 2-bedroom properties, with fewer large homes available.
-Price by ZIP Code: ZIP code 98119 has the highest average price, while ZIP code 98178 has the lowest.
-Revenue Trend: Revenue shows consistent growth throughout the year, with a peak around May and stability afterward.
-Geographical Variation: The heatmap highlights pricing clusters, showing higher prices in central and popular ZIP codes.
+1. Price by Bedroom: Average price increases with the number of bedrooms, ranging from $96 for 1-bedroom to $584 for 6-bedroom properties.
+2. Listings Count: The majority of listings are 1- and 2-bedroom properties, with fewer large homes available.
+3. Price by ZIP Code: ZIP code 98119 has the highest average price, while ZIP code 98178 has the lowest.
+4. Revenue Trend: Revenue shows consistent growth throughout the year, with a peak around May and stability afterward.
+5. Geographical Variation: The heatmap highlights pricing clusters, showing higher prices in central and popular ZIP codes.
 
 ## 5. Final Conclusion
 The Airbnb Sales Analysis Dashboard provides a comprehensive view of pricing trends, listing distribution, and revenue performance. The insights reveal that pricing is heavily influenced by bedroom count and ZIP code location. Revenue remains stable after a mid-year peak, indicating a strong booking trend throughout the year. These findings enable stakeholders to strategize listing pricing, target high-demand regions, and optimize occupancy rates for improved profitability.
